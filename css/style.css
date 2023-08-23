@@ -1084,7 +1084,6 @@ ul.top_icon li a {
 }
 
 
-}
 
 .main-menu ul li:last-child a {
      padding-right: 0;
@@ -1178,7 +1177,7 @@ ul.top_icon li a {
      color: #fff;
 }
 
-.main-menu ul>li:nth-child (6) {
+.main-menu ul>li:nth-child {
      padding-right: 0px;
 }
 
@@ -2032,7 +2031,8 @@ img.zoom {
 }
 
 form {
-     background: #081b30 padding: 35px 30px;
+     background: #081b30;
+     padding: 35px 30px;
 }
 
 .map_section figure img {
